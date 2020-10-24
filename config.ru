@@ -1,5 +1,9 @@
 # Write your code here!
 
+require 'sinatra'
 
-run App
+require_relative './app'
+
+
+run Application
 
